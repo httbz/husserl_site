@@ -185,6 +185,6 @@ figcaption h4{
 }
 .fenopro{
   height: 132vh;
-  background-image: url(relacao_bg.png);
+  background-image: url(/relacao_bg.png);
   background-size: cover;
 }
