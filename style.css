@@ -180,7 +180,7 @@ figcaption h4{
 }
 .desa{
   height: 99vh;
-  background-image: url(./img/desafios.png);
+  background-image: url(/img/desafios.png);
   background-size: cover;
 }
 .fenopro{
