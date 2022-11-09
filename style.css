@@ -170,17 +170,17 @@ figcaption h4{
 }
 .feno{
   height: 125vh;
-  background-image: url(/img/fenomenologia_bg.png);
+  background-image: url(./img/fenomenologia_bg.png);
   background-size: cover;
 }
 .glob{
   height: 125vh;
-  background-image: url(/img/glob_bg.png);
+  background-image: url(./img/glob_bg.png);
   background-size: cover;
 }
 .desa{
   height: 99vh;
-  background-image: url(/img/desafios.png);
+  background-image: url(./img/desafios.png);
   background-size: cover;
 }
 .fenopro{
